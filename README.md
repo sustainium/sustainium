@@ -15,11 +15,11 @@ Sustainium is a blockchain platform forked from Ethereum, integrating Proof-of-S
 ## Supply Cap
 - **Total Supply**: 1,000,000,000 Sustainium (1 Billion)
 - **Initial Distribution**:
-  - **Founders and Team**: 10-20%
-  - **Advisors and Partners**: 5-10%
-  - **Community and Development Fund**: 10-15%
-  - **Ecosystem Incentives**: 20-30%
-  - **Public Sale**: 20-30%
+  - **Founders and Team**: 20%
+  - **Advisors and Partners**: 10%
+  - **Community and Development Fund**: 15%
+  - **Ecosystem Incentives**: 20%
+  - **Public Sale**: 20%
 
 ## Technology Stack
 - **Blockchain**: Forked from Ethereum, Custom PoS with pBFT and sharding
@@ -73,10 +73,9 @@ We welcome contributions from the community! To contribute, please fork the repo
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Connect with Us
-- Discord: Join our Discord community
+- Discord: [Join our Discord community](https://discord.gg/HwmWbtCEwQ)
 
-- Twitter: Follow us on Twitter
 
-- GitHub: Explore our GitHub
+- GitHub: [Explore our GitHub](https://github.com/sustainium)
 
 Thank you for your interest in Sustainium! Together, let's build a scalable, secure, and sustainable blockchain. 🚀🌟🌿
