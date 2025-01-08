@@ -15,6 +15,7 @@ Sustainium is a blockchain platform forked from Ethereum, integrating Proof-of-S
 ## Supply Cap
 - **Total Supply**: 1,000,000,000 Sustainium (1 Billion)
 - **Initial Distribution**:
+  
 | Category                        | Percentage | Amount (Tokens) | Addresses                               |
 |---------------------------------|-------------|------------------|-----------------------------------------|
 | Founders and Team               | 12.5%       | 125,000,000      | Multiple (multi-signature suggested)    |
