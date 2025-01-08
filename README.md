@@ -46,7 +46,7 @@ npm install -g truffle
 - Clone the Repository:
 
 ```sh
-git clone https://github.com/username/sustainium.git
+git clone https://github.com/sustainium/sustainium.git
 cd sustainium
 ```
 
